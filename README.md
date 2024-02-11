@@ -1,6 +1,7 @@
 Orginial qb-truckrobbery here https://github.com/qbcore-framework/qb-truckrobbery
 <BR>
-<BR> I added this code block to client.lua this fixes the bug where nothing happens when you need to silence the alarm
+<BR> I added this code block to client.lua this fixes the bug where nothing happens when you need to silence the alarm.
+<BR> Still uses marked bills
 
 ```lua
 -- Function to make guards exit the truck
